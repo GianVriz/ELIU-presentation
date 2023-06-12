@@ -10,6 +10,7 @@ The repository also includes the following folders:
    Slides and figure of the presentation at the University of Padua.
    
  <p align="center">
- <img src="https://github.com/GianVriz/ELIU-presentation/blob/main/Slides/Figures/time%20series.png" alt="drawing" width="400"/>
- <img src="https://github.com/GianVriz/ELIU-presentation/blob/main/Slides/Figures/log-returns.png" alt="drawing" width="400"/> 
+ <img src="https://github.com/GianVriz/ELIU-presentation/blob/main/Slides/Figures/time%20series.png" alt="drawing" width="400" height="300"/> 
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/GianVriz/ELIU-presentation/blob/main/Slides/Figures/log-returns.png" alt="drawing" width="400" height="300"/> 
 <p>

@@ -11,6 +11,6 @@ The repository also includes the following folders:
    
  <p align="center">
  <img src="https://github.com/GianVriz/ELIU-presentation/blob/main/Slides/Figures/time%20series.png" alt="drawing" width="350" height="200"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/GianVriz/ELIU-presentation/blob/main/Slides/Figures/log-returns.png" alt="drawing" width="350" height="200"/> 
 <p>
